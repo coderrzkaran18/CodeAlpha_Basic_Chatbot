@@ -62,6 +62,4 @@ Bot: Goodbye! Have a nice day 👋
 
 ## 👨‍💻 Author
 
-Karan Kumar Chauhan
-
-Aspiring Data Analyst | Python | SQL | Power BI
+Karan Kumar Chauhan B.Tech — Computer Science Engineering (Data Science)
